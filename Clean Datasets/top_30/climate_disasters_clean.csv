@@ -1,5 +1,48 @@
 Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
-1980,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1980,World,24,3,39,3,34,1
+1981,World,18,1,38,7,46,2
+1982,World,6,2,47,12,51,2
+1983,World,26,2,48,16,55,10
+1984,World,6,1,46,6,51,7
+1985,World,3,7,56,4,49,11
+1986,World,4,2,48,9,53,5
+1987,World,15,5,65,14,55,7
+1988,World,17,5,74,15,60,0
+1989,World,7,5,44,15,67,2
+1990,World,19,13,59,5,132,4
+1991,World,12,8,75,9,66,8
+1992,World,11,7,57,8,76,8
+1993,World,9,3,84,25,105,2
+1994,World,11,9,88,11,80,13
+1995,World,6,13,93,16,76,7
+1996,World,7,5,91,24,74,4
+1997,World,17,13,95,13,79,15
+1998,World,20,12,94,22,86,18
+1999,World,26,8,122,18,103,21
+2000,World,25,30,157,27,101,30
+2001,World,22,23,155,24,105,14
+2002,World,24,15,171,20,122,22
+2003,World,14,25,157,21,85,14
+2004,World,11,16,127,15,121,8
+2005,World,20,40,191,13,130,13
+2006,World,9,14,226,20,76,9
+2007,World,11,25,217,10,100,18
+2008,World,16,16,165,12,112,5
+2009,World,18,20,151,29,87,9
+2010,World,21,28,184,32,94,7
+2011,World,16,15,156,17,81,8
+2012,World,18,52,136,13,90,6
+2013,World,9,13,148,11,105,10
+2014,World,20,17,136,15,98,4
+2015,World,27,12,161,20,121,13
+2016,World,14,12,159,13,86,10
+2017,World,12,10,127,25,126,15
+2018,World,17,27,127,12,94,10
+2019,World,15,21,195,25,91,14
+2020,World,12,5,201,19,127,9
+2021,World,16,3,222,12,119,19
+2022,World,22,12,176,17,105,15
+1980,"Afghanistan",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1980,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -88,7 +131,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1980,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,India,0.0,2.0,5.0,1.0,2.0,10.0,0.0
 1980,Indonesia,0.0,0.0,1.0,1.0,1.0,3.0,0.0
-1980,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+1980,"Iran",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1980,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -101,7 +144,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1980,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1980,"Korea, Rep. of",0.0,0.0,0.0,0.0,2.0,2.0,0.0
+1980,"Korea",0.0,0.0,0.0,0.0,2.0,2.0,0.0
 1980,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -214,7 +257,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1980,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1980,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1981,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1981,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Algeria,1.0,0.0,1.0,0.0,0.0,2.0,0.0
 1981,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -303,7 +346,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1981,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,India,0.0,1.0,1.0,0.0,4.0,6.0,0.0
 1981,Indonesia,0.0,0.0,3.0,1.0,0.0,4.0,0.0
-1981,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+1981,"Iran",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 1981,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -316,7 +359,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1981,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1981,"Korea, Rep. of",0.0,0.0,0.0,1.0,1.0,2.0,0.0
+1981,"Korea",0.0,0.0,0.0,1.0,1.0,2.0,0.0
 1981,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -429,7 +472,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1981,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1981,Zambia,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1981,Zimbabwe,1.0,0.0,0.0,0.0,0.0,1.0,0.0
-1982,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1982,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1982,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -518,7 +561,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1982,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,India,1.0,1.0,2.0,0.0,2.0,6.0,0.0
 1982,Indonesia,1.0,0.0,3.0,2.0,1.0,7.0,0.0
-1982,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1982,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -531,7 +574,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1982,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1982,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1982,"Korea, Rep. of",0.0,0.0,0.0,0.0,2.0,2.0,0.0
+1982,"Korea",0.0,0.0,0.0,0.0,2.0,2.0,0.0
 1982,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -644,7 +687,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1982,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1982,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1983,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1983,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -733,7 +776,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1983,Iceland,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 1983,India,0.0,0.0,4.0,1.0,5.0,10.0,0.0
 1983,Indonesia,0.0,0.0,3.0,1.0,0.0,4.0,0.0
-1983,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1983,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1983,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -746,7 +789,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1983,Kenya,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1983,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1983,"Korea, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1983,"Korea",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -859,7 +902,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1983,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1983,Zambia,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1983,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1984,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1984,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1984,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -948,7 +991,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1984,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,India,0.0,1.0,5.0,0.0,2.0,9.0,1.0
 1984,Indonesia,1.0,0.0,3.0,0.0,0.0,4.0,0.0
-1984,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1984,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -961,7 +1004,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1984,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1984,"Korea, Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
+1984,"Korea",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 1984,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -1074,7 +1117,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1984,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1984,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1985,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1985,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Albania,0.0,1.0,0.0,1.0,0.0,2.0,0.0
 1985,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1985,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1163,7 +1206,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1985,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,India,0.0,2.0,5.0,0.0,2.0,9.0,0.0
 1985,Indonesia,0.0,0.0,3.0,0.0,1.0,4.0,0.0
-1985,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1985,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1176,7 +1219,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1985,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1985,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+1985,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1985,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1289,7 +1332,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1985,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1985,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1986,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1986,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1378,7 +1421,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1986,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,India,0.0,0.0,3.0,2.0,5.0,10.0,0.0
 1986,Indonesia,1.0,0.0,4.0,0.0,0.0,5.0,0.0
-1986,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+1986,"Iran",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1986,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1986,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1391,7 +1434,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1986,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1986,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+1986,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1986,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1504,7 +1547,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1986,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1986,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1987,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,1.0,0.0,1.0,0.0
+1987,"Afghanistan",0.0,0.0,0.0,1.0,0.0,1.0,0.0
 1987,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1593,7 +1636,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1987,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,India,1.0,1.0,4.0,0.0,4.0,10.0,0.0
 1987,Indonesia,1.0,0.0,5.0,0.0,0.0,6.0,0.0
-1987,"Iran, Islamic Rep. of",0.0,0.0,6.0,0.0,0.0,6.0,0.0
+1987,"Iran",0.0,0.0,6.0,0.0,0.0,6.0,0.0
 1987,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1987,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1606,7 +1649,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1987,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-1987,"Korea, Rep. of",0.0,0.0,1.0,0.0,2.0,3.0,0.0
+1987,"Korea",0.0,0.0,1.0,0.0,2.0,3.0,0.0
 1987,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Lao People's Dem. Rep.,1.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -1719,7 +1762,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1987,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1987,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1988,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1988,"Afghanistan",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1988,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Algeria,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1988,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1808,7 +1851,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1988,Iceland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1988,India,0.0,2.0,3.0,2.0,1.0,8.0,0.0
 1988,Indonesia,0.0,0.0,2.0,1.0,0.0,3.0,0.0
-1988,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1988,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1988,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -1821,7 +1864,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1988,Kenya,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1988,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1988,"Korea, Rep. of",0.0,0.0,0.0,1.0,0.0,1.0,0.0
+1988,"Korea",0.0,0.0,0.0,1.0,0.0,1.0,0.0
 1988,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Lao People's Dem. Rep.,1.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -1934,7 +1977,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1988,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1988,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1989,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1989,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Albania,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1989,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,American Samoa,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -2023,7 +2066,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1989,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,India,0.0,2.0,2.0,1.0,2.0,7.0,0.0
 1989,Indonesia,0.0,0.0,2.0,1.0,0.0,3.0,0.0
-1989,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1989,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1989,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2036,7 +2079,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1989,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1989,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+1989,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1989,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2149,7 +2192,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1989,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1989,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1989,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1990,"Afghanistan, Islamic Rep. of",0.0,1.0,0.0,0.0,0.0,1.0,0.0
+1990,"Afghanistan",0.0,1.0,0.0,0.0,0.0,1.0,0.0
 1990,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2238,7 +2281,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1990,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,India,0.0,2.0,4.0,1.0,5.0,12.0,0.0
 1990,Indonesia,0.0,0.0,2.0,0.0,0.0,2.0,0.0
-1990,"Iran, Islamic Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
+1990,"Iran",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 1990,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,Ireland,0.0,0.0,0.0,0.0,3.0,3.0,0.0
 1990,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2251,7 +2294,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1990,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1990,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1990,"Korea, Rep. of",0.0,1.0,1.0,0.0,1.0,3.0,0.0
+1990,"Korea",0.0,1.0,1.0,0.0,1.0,3.0,0.0
 1990,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2364,7 +2407,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1990,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1990,Zambia,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1990,Zimbabwe,1.0,0.0,0.0,0.0,0.0,1.0,0.0
-1991,"Afghanistan, Islamic Rep. of",0.0,1.0,3.0,0.0,0.0,4.0,0.0
+1991,"Afghanistan",0.0,1.0,3.0,0.0,0.0,4.0,0.0
 1991,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2453,7 +2496,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1991,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,India,0.0,0.0,8.0,0.0,1.0,9.0,0.0
 1991,Indonesia,0.0,0.0,2.0,1.0,0.0,4.0,1.0
-1991,"Iran, Islamic Rep. of",0.0,0.0,4.0,0.0,1.0,5.0,0.0
+1991,"Iran",0.0,0.0,4.0,0.0,1.0,5.0,0.0
 1991,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1991,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2466,7 +2509,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1991,Kenya,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1991,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1991,"Korea, Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+1991,"Korea",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 1991,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,Lao People's Dem. Rep.,1.0,0.0,1.0,0.0,1.0,3.0,0.0
@@ -2579,7 +2622,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1991,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1991,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1991,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1992,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+1992,"Afghanistan",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1992,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1992,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1992,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2668,7 +2711,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1992,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,India,0.0,1.0,4.0,1.0,2.0,8.0,0.0
 1992,Indonesia,0.0,0.0,1.0,1.0,0.0,2.0,0.0
-1992,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
+1992,"Iran",0.0,0.0,2.0,0.0,1.0,3.0,0.0
 1992,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2681,7 +2724,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1992,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1992,"Korea, Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+1992,"Korea",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 1992,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,1.0,2.0,0.0
@@ -2794,7 +2837,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1992,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1992,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1993,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,2.0,1.0,3.0,0.0
+1993,"Afghanistan",0.0,0.0,0.0,2.0,1.0,3.0,0.0
 1993,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Algeria,0.0,0.0,1.0,1.0,0.0,2.0,0.0
 1993,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2883,7 +2926,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1993,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,India,1.0,0.0,5.0,1.0,2.0,9.0,0.0
 1993,Indonesia,0.0,0.0,2.0,0.0,0.0,2.0,0.0
-1993,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,1.0,4.0,0.0
+1993,"Iran",0.0,0.0,3.0,0.0,1.0,4.0,0.0
 1993,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1993,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -2896,7 +2939,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1993,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
-1993,"Korea, Rep. of",0.0,0.0,0.0,1.0,1.0,2.0,0.0
+1993,"Korea",0.0,0.0,0.0,1.0,1.0,2.0,0.0
 1993,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -3009,7 +3052,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1993,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1993,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1993,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1994,"Afghanistan, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1994,"Afghanistan",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Algeria,0.0,0.0,2.0,0.0,0.0,3.0,1.0
 1994,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3098,7 +3141,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1994,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,India,0.0,1.0,2.0,0.0,2.0,5.0,0.0
 1994,Indonesia,0.0,0.0,6.0,0.0,0.0,7.0,1.0
-1994,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
+1994,"Iran",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 1994,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3111,7 +3154,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1994,Kenya,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1994,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1994,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+1994,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1994,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Kyrgyz Rep.,0.0,0.0,0.0,2.0,0.0,2.0,0.0
 1994,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -3224,7 +3267,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1994,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1994,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1995,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,1.0,0.0,3.0,0.0
+1995,"Afghanistan",0.0,0.0,2.0,1.0,0.0,3.0,0.0
 1995,Albania,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1995,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3313,7 +3356,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1995,Iceland,0.0,0.0,0.0,2.0,0.0,2.0,0.0
 1995,India,0.0,1.0,3.0,3.0,2.0,9.0,0.0
 1995,Indonesia,0.0,0.0,5.0,0.0,0.0,5.0,0.0
-1995,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
+1995,"Iran",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 1995,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3326,7 +3369,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1995,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-1995,"Korea, Rep. of",0.0,0.0,0.0,0.0,2.0,2.0,0.0
+1995,"Korea",0.0,0.0,0.0,0.0,2.0,2.0,0.0
 1995,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Lao People's Dem. Rep.,0.0,0.0,2.0,0.0,1.0,3.0,0.0
@@ -3439,7 +3482,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1995,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,Zambia,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1995,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1996,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+1996,"Afghanistan",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1996,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1996,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3528,7 +3571,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1996,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,India,1.0,0.0,6.0,1.0,4.0,12.0,0.0
 1996,Indonesia,0.0,0.0,5.0,1.0,0.0,6.0,0.0
-1996,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,1.0,4.0,0.0
+1996,"Iran",0.0,0.0,3.0,0.0,1.0,4.0,0.0
 1996,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1996,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3541,7 +3584,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1996,Kenya,1.0,0.0,1.0,0.0,0.0,2.0,0.0
 1996,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1996,"Korea, Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
+1996,"Korea",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 1996,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -3654,7 +3697,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1996,"Yemen, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1996,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1996,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1997,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,1.0,0.0,3.0,0.0
+1997,"Afghanistan",0.0,0.0,2.0,1.0,0.0,3.0,0.0
 1997,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1997,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1997,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3743,7 +3786,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1997,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,India,0.0,0.0,6.0,2.0,1.0,9.0,0.0
 1997,Indonesia,1.0,0.0,0.0,0.0,0.0,2.0,1.0
-1997,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+1997,"Iran",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1997,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3756,7 +3799,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1997,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1997,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
-1997,"Korea, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+1997,"Korea",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1997,Kuwait,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1997,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3869,7 +3912,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1997,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1997,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1998,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
+1998,"Afghanistan",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 1998,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1998,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1998,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3958,7 +4001,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1998,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1998,India,0.0,2.0,3.0,5.0,4.0,14.0,0.0
 1998,Indonesia,0.0,0.0,1.0,0.0,0.0,2.0,1.0
-1998,"Iran, Islamic Rep. of",0.0,0.0,3.0,1.0,0.0,4.0,0.0
+1998,"Iran",0.0,0.0,3.0,1.0,0.0,4.0,0.0
 1998,Iraq,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1998,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1998,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -3971,7 +4014,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1998,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1998,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1998,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1998,"Korea, Rep. of",0.0,0.0,1.0,0.0,3.0,4.0,0.0
+1998,"Korea",0.0,0.0,1.0,0.0,3.0,4.0,0.0
 1998,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1998,Kyrgyz Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1998,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4084,7 +4127,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1998,"Yemen, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 1998,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1998,Zimbabwe,1.0,0.0,1.0,0.0,0.0,2.0,0.0
-1999,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,2.0,1.0
+1999,"Afghanistan",0.0,0.0,1.0,0.0,0.0,2.0,1.0
 1999,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1999,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4173,7 +4216,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1999,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,India,0.0,1.0,2.0,0.0,3.0,7.0,1.0
 1999,Indonesia,0.0,0.0,1.0,2.0,0.0,4.0,1.0
-1999,"Iran, Islamic Rep. of",1.0,0.0,4.0,0.0,0.0,5.0,0.0
+1999,"Iran",1.0,0.0,4.0,0.0,0.0,5.0,0.0
 1999,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 1999,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4186,7 +4229,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1999,Kenya,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1999,Kiribati,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 1999,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-1999,"Korea, Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+1999,"Korea",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 1999,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,Lao People's Dem. Rep.,1.0,0.0,0.0,0.0,0.0,1.0,0.0
@@ -4299,7 +4342,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 1999,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 1999,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1999,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2000,"Afghanistan, Islamic Rep. of",1.0,0.0,0.0,0.0,0.0,1.0,0.0
+2000,"Afghanistan",1.0,0.0,0.0,0.0,0.0,1.0,0.0
 2000,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,Algeria,0.0,0.0,4.0,0.0,1.0,5.0,0.0
 2000,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4388,7 +4431,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2000,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,India,1.0,1.0,6.0,3.0,2.0,13.0,0.0
 2000,Indonesia,0.0,0.0,3.0,4.0,0.0,8.0,1.0
-2000,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,1.0,4.0,0.0
+2000,"Iran",0.0,0.0,3.0,0.0,1.0,4.0,0.0
 2000,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2000,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4401,7 +4444,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2000,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
-2000,"Korea, Rep. of",0.0,0.0,2.0,0.0,2.0,5.0,1.0
+2000,"Korea",0.0,0.0,2.0,0.0,2.0,5.0,1.0
 2000,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,Kyrgyz Rep.,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2000,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -4514,7 +4557,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2000,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2000,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2000,Zimbabwe,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2001,"Afghanistan, Islamic Rep. of",0.0,2.0,0.0,0.0,0.0,2.0,0.0
+2001,"Afghanistan",0.0,2.0,0.0,0.0,0.0,2.0,0.0
 2001,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2001,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4603,7 +4646,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2001,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,India,0.0,2.0,9.0,3.0,3.0,17.0,0.0
 2001,Indonesia,0.0,0.0,4.0,4.0,0.0,8.0,0.0
-2001,"Iran, Islamic Rep. of",0.0,0.0,4.0,0.0,0.0,4.0,0.0
+2001,"Iran",0.0,0.0,4.0,0.0,0.0,4.0,0.0
 2001,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4616,7 +4659,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2001,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2001,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-2001,"Korea, Rep. of",1.0,0.0,2.0,0.0,1.0,4.0,0.0
+2001,"Korea",1.0,0.0,2.0,0.0,1.0,4.0,0.0
 2001,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2001,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -4729,7 +4772,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2001,"Yemen, Rep. of",0.0,0.0,1.0,0.0,2.0,3.0,0.0
 2001,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2001,Zimbabwe,1.0,0.0,1.0,0.0,0.0,2.0,0.0
-2002,"Afghanistan, Islamic Rep. of",0.0,0.0,4.0,1.0,0.0,5.0,0.0
+2002,"Afghanistan",0.0,0.0,4.0,1.0,0.0,5.0,0.0
 2002,Albania,0.0,0.0,1.0,0.0,1.0,2.0,0.0
 2002,Algeria,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2002,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4818,7 +4861,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2002,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2002,India,1.0,2.0,6.0,0.0,4.0,13.0,0.0
 2002,Indonesia,0.0,0.0,7.0,1.0,0.0,9.0,1.0
-2002,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,0.0,4.0,1.0
+2002,"Iran",0.0,0.0,3.0,0.0,0.0,4.0,1.0
 2002,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2002,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2002,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -4831,7 +4874,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2002,Kenya,0.0,0.0,4.0,1.0,0.0,5.0,0.0
 2002,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2002,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
-2002,"Korea, Rep. of",0.0,0.0,1.0,0.0,3.0,4.0,0.0
+2002,"Korea",0.0,0.0,1.0,0.0,3.0,4.0,0.0
 2002,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2002,Kyrgyz Rep.,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2002,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -4944,7 +4987,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2002,"Yemen, Rep. of",0.0,0.0,4.0,0.0,0.0,4.0,0.0
 2002,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2002,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2003,"Afghanistan, Islamic Rep. of",0.0,0.0,8.0,0.0,0.0,8.0,0.0
+2003,"Afghanistan",0.0,0.0,8.0,0.0,0.0,8.0,0.0
 2003,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,Algeria,0.0,1.0,3.0,0.0,1.0,5.0,0.0
 2003,American Samoa,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -5033,7 +5076,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2003,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,India,0.0,2.0,6.0,1.0,7.0,16.0,0.0
 2003,Indonesia,1.0,0.0,8.0,4.0,0.0,13.0,0.0
-2003,"Iran, Islamic Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
+2003,"Iran",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 2003,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5046,7 +5089,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2003,Kenya,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2003,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2003,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2003,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2003,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2003,Kyrgyz Rep.,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2003,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5159,7 +5202,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2003,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2003,Zambia,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2003,Zimbabwe,0.0,0.0,1.0,0.0,1.0,2.0,0.0
-2004,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+2004,"Afghanistan",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2004,Albania,0.0,1.0,1.0,0.0,0.0,2.0,0.0
 2004,Algeria,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2004,American Samoa,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -5248,7 +5291,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2004,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2004,India,0.0,0.0,6.0,0.0,0.0,6.0,0.0
 2004,Indonesia,0.0,0.0,1.0,4.0,2.0,7.0,0.0
-2004,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
+2004,"Iran",0.0,0.0,2.0,0.0,1.0,3.0,0.0
 2004,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2004,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2004,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5261,7 +5304,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2004,Kenya,1.0,0.0,2.0,0.0,0.0,3.0,0.0
 2004,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2004,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-2004,"Korea, Rep. of",0.0,0.0,2.0,0.0,4.0,7.0,1.0
+2004,"Korea",0.0,0.0,2.0,0.0,4.0,7.0,1.0
 2004,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2004,Kyrgyz Rep.,0.0,0.0,0.0,3.0,0.0,3.0,0.0
 2004,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5374,7 +5417,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2004,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2004,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2004,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2005,"Afghanistan, Islamic Rep. of",0.0,1.0,8.0,0.0,1.0,10.0,0.0
+2005,"Afghanistan",0.0,1.0,8.0,0.0,1.0,10.0,0.0
 2005,Albania,0.0,0.0,1.0,0.0,1.0,2.0,0.0
 2005,Algeria,0.0,0.0,2.0,0.0,1.0,3.0,0.0
 2005,American Samoa,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -5463,7 +5506,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2005,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2005,India,0.0,2.0,17.0,2.0,4.0,25.0,0.0
 2005,Indonesia,0.0,0.0,3.0,2.0,0.0,6.0,1.0
-2005,"Iran, Islamic Rep. of",0.0,0.0,4.0,0.0,1.0,5.0,0.0
+2005,"Iran",0.0,0.0,4.0,0.0,1.0,5.0,0.0
 2005,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2005,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2005,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5476,7 +5519,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2005,Kenya,1.0,0.0,3.0,0.0,0.0,4.0,0.0
 2005,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2005,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2005,"Korea, Rep. of",0.0,0.0,1.0,0.0,3.0,5.0,1.0
+2005,"Korea",0.0,0.0,1.0,0.0,3.0,5.0,1.0
 2005,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2005,Kyrgyz Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2005,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5589,7 +5632,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2005,"Yemen, Rep. of",0.0,0.0,2.0,1.0,0.0,3.0,0.0
 2005,Zambia,1.0,0.0,1.0,0.0,0.0,2.0,0.0
 2005,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2006,"Afghanistan, Islamic Rep. of",1.0,0.0,7.0,2.0,2.0,12.0,0.0
+2006,"Afghanistan",1.0,0.0,7.0,2.0,2.0,12.0,0.0
 2006,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2006,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5678,7 +5721,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2006,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,India,0.0,1.0,17.0,0.0,2.0,20.0,0.0
 2006,Indonesia,0.0,0.0,8.0,3.0,0.0,12.0,1.0
-2006,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2006,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2006,Iraq,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2006,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5691,7 +5734,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2006,Kenya,0.0,0.0,4.0,0.0,0.0,4.0,0.0
 2006,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-2006,"Korea, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2006,"Korea",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2006,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,Kyrgyz Rep.,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2006,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5804,7 +5847,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2006,"Yemen, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2006,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2006,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2007,"Afghanistan, Islamic Rep. of",0.0,0.0,7.0,0.0,0.0,7.0,0.0
+2007,"Afghanistan",0.0,0.0,7.0,0.0,0.0,7.0,0.0
 2007,Albania,0.0,1.0,0.0,0.0,0.0,2.0,1.0
 2007,Algeria,0.0,0.0,6.0,0.0,0.0,7.0,1.0
 2007,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5893,7 +5936,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2007,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2007,India,0.0,3.0,16.0,0.0,1.0,20.0,0.0
 2007,Indonesia,0.0,0.0,8.0,2.0,0.0,10.0,0.0
-2007,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+2007,"Iran",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 2007,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2007,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2007,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -5906,7 +5949,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2007,Kenya,0.0,0.0,3.0,1.0,0.0,4.0,0.0
 2007,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2007,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
-2007,"Korea, Rep. of",0.0,0.0,1.0,0.0,1.0,2.0,0.0
+2007,"Korea",0.0,0.0,1.0,0.0,1.0,2.0,0.0
 2007,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2007,Kyrgyz Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2007,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6019,7 +6062,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2007,"Yemen, Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2007,Zambia,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2007,Zimbabwe,1.0,0.0,2.0,0.0,1.0,4.0,0.0
-2008,"Afghanistan, Islamic Rep. of",1.0,1.0,1.0,0.0,0.0,3.0,0.0
+2008,"Afghanistan",1.0,1.0,1.0,0.0,0.0,3.0,0.0
 2008,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2008,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6108,7 +6151,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2008,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2008,India,0.0,1.0,8.0,1.0,1.0,11.0,0.0
 2008,Indonesia,0.0,0.0,12.0,1.0,0.0,13.0,0.0
-2008,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
+2008,"Iran",0.0,0.0,2.0,0.0,1.0,3.0,0.0
 2008,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2008,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6121,7 +6164,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2008,Kenya,1.0,0.0,6.0,1.0,0.0,8.0,0.0
 2008,Kiribati,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2008,"Korea, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2008,"Korea",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2008,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2008,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -6234,7 +6277,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2008,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2008,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2009,"Afghanistan, Islamic Rep. of",0.0,0.0,3.0,1.0,0.0,4.0,0.0
+2009,"Afghanistan",0.0,0.0,3.0,1.0,0.0,4.0,0.0
 2009,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2009,Algeria,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2009,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6323,7 +6366,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2009,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2009,India,1.0,2.0,6.0,2.0,6.0,17.0,0.0
 2009,Indonesia,0.0,0.0,5.0,2.0,0.0,7.0,0.0
-2009,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2009,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2009,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2009,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6336,7 +6379,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2009,Kenya,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2009,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2009,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2009,"Korea, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,"Korea",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2009,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2009,Kyrgyz Rep.,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 2009,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,1.0,2.0,0.0
@@ -6449,7 +6492,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2009,"Yemen, Rep. of",0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2009,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2009,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2010,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,2.0,0.0,4.0,0.0
+2010,"Afghanistan",0.0,0.0,2.0,2.0,0.0,4.0,0.0
 2010,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2010,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6538,7 +6581,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2010,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,India,0.0,1.0,8.0,1.0,7.0,17.0,0.0
 2010,Indonesia,0.0,0.0,7.0,1.0,0.0,8.0,0.0
-2010,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6551,7 +6594,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2010,Kenya,1.0,0.0,2.0,1.0,0.0,4.0,0.0
 2010,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
-2010,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2010,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2010,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2010,Kyrgyz Rep.,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2010,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6664,7 +6707,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2010,"Yemen, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2010,Zambia,0.0,0.0,1.0,1.0,0.0,2.0,0.0
 2010,Zimbabwe,1.0,0.0,1.0,0.0,0.0,2.0,0.0
-2011,"Afghanistan, Islamic Rep. of",1.0,0.0,2.0,0.0,1.0,4.0,0.0
+2011,"Afghanistan",1.0,0.0,2.0,0.0,1.0,4.0,0.0
 2011,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2011,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6753,7 +6796,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2011,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,India,0.0,2.0,7.0,0.0,3.0,12.0,0.0
 2011,Indonesia,0.0,0.0,6.0,2.0,0.0,8.0,0.0
-2011,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2011,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2011,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6766,7 +6809,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2011,Kenya,1.0,0.0,3.0,0.0,0.0,4.0,0.0
 2011,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
-2011,"Korea, Rep. of",0.0,0.0,2.0,1.0,0.0,3.0,0.0
+2011,"Korea",0.0,0.0,2.0,1.0,0.0,3.0,0.0
 2011,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,Lao People's Dem. Rep.,0.0,0.0,2.0,0.0,0.0,2.0,0.0
@@ -6879,7 +6922,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2011,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2011,Zimbabwe,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2012,"Afghanistan, Islamic Rep. of",0.0,1.0,6.0,3.0,0.0,10.0,0.0
+2012,"Afghanistan",0.0,1.0,6.0,3.0,0.0,10.0,0.0
 2012,Albania,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2012,Algeria,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2012,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6968,7 +7011,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2012,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,India,0.0,2.0,6.0,0.0,1.0,9.0,0.0
 2012,Indonesia,0.0,0.0,7.0,2.0,2.0,11.0,0.0
-2012,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2012,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2012,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2012,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -6981,7 +7024,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2012,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2012,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,"Korea, Dem. People's Rep. of",1.0,0.0,1.0,0.0,1.0,3.0,0.0
-2012,"Korea, Rep. of",0.0,0.0,0.0,0.0,3.0,3.0,0.0
+2012,"Korea",0.0,0.0,0.0,0.0,3.0,3.0,0.0
 2012,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,Kyrgyz Rep.,0.0,1.0,1.0,0.0,0.0,2.0,0.0
 2012,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7094,7 +7137,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2012,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2013,"Afghanistan, Islamic Rep. of",0.0,0.0,4.0,1.0,0.0,5.0,0.0
+2013,"Afghanistan",0.0,0.0,4.0,1.0,0.0,5.0,0.0
 2013,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7183,7 +7226,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2013,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,India,0.0,1.0,5.0,0.0,5.0,11.0,0.0
 2013,Indonesia,0.0,0.0,10.0,2.0,0.0,12.0,0.0
-2013,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Iran",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2013,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7196,7 +7239,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2013,Kenya,0.0,0.0,4.0,0.0,0.0,4.0,0.0
 2013,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2013,"Korea, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013,"Korea",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2013,Lao People's Dem. Rep.,0.0,0.0,2.0,0.0,0.0,2.0,0.0
@@ -7309,7 +7352,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2013,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2013,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2013,Zimbabwe,1.0,0.0,1.0,0.0,0.0,2.0,0.0
-2014,"Afghanistan, Islamic Rep. of",0.0,0.0,2.0,0.0,1.0,3.0,0.0
+2014,"Afghanistan",0.0,0.0,2.0,0.0,1.0,3.0,0.0
 2014,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7398,7 +7441,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2014,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,India,0.0,3.0,7.0,1.0,5.0,16.0,0.0
 2014,Indonesia,0.0,0.0,6.0,2.0,0.0,8.0,0.0
-2014,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2014,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2014,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2014,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7411,7 +7454,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2014,Kenya,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 2014,Kiribati,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2014,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2014,"Korea, Rep. of",0.0,0.0,1.0,0.0,2.0,3.0,0.0
+2014,"Korea",0.0,0.0,1.0,0.0,2.0,3.0,0.0
 2014,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,Kyrgyz Rep.,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2014,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -7524,7 +7567,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2014,"Yemen, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2014,Zambia,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2014,Zimbabwe,0.0,0.0,2.0,0.0,0.0,2.0,0.0
-2015,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,4.0,0.0,5.0,0.0
+2015,"Afghanistan",0.0,0.0,1.0,4.0,0.0,5.0,0.0
 2015,Albania,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2015,Algeria,0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2015,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7613,7 +7656,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2015,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2015,India,1.0,1.0,10.0,1.0,6.0,19.0,0.0
 2015,Indonesia,1.0,0.0,6.0,3.0,0.0,11.0,1.0
-2015,"Iran, Islamic Rep. of",0.0,0.0,5.0,0.0,0.0,5.0,0.0
+2015,"Iran",0.0,0.0,5.0,0.0,0.0,5.0,0.0
 2015,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2015,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2015,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7626,7 +7669,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2015,Kenya,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2015,Kiribati,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2015,"Korea, Dem. People's Rep. of",1.0,0.0,1.0,0.0,0.0,2.0,0.0
-2015,"Korea, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015,"Korea",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2015,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2015,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2015,Lao People's Dem. Rep.,0.0,0.0,2.0,0.0,0.0,2.0,0.0
@@ -7739,7 +7782,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2015,"Yemen, Rep. of",0.0,0.0,0.0,0.0,2.0,2.0,0.0
 2015,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2015,Zimbabwe,0.0,0.0,0.0,0.0,1.0,1.0,0.0
-2016,"Afghanistan, Islamic Rep. of",0.0,0.0,4.0,0.0,0.0,4.0,0.0
+2016,"Afghanistan",0.0,0.0,4.0,0.0,0.0,4.0,0.0
 2016,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2016,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7828,7 +7871,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2016,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,India,0.0,1.0,8.0,2.0,3.0,15.0,1.0
 2016,Indonesia,0.0,0.0,10.0,2.0,0.0,12.0,0.0
-2016,"Iran, Islamic Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2016,"Iran",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2016,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -7841,7 +7884,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2016,Kenya,1.0,0.0,2.0,0.0,0.0,3.0,0.0
 2016,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,"Korea, Dem. People's Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
-2016,"Korea, Rep. of",0.0,1.0,0.0,0.0,1.0,2.0,0.0
+2016,"Korea",0.0,1.0,0.0,0.0,1.0,2.0,0.0
 2016,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
@@ -7954,7 +7997,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2016,"Yemen, Rep. of",0.0,0.0,1.0,1.0,0.0,2.0,0.0
 2016,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2016,Zimbabwe,0.0,0.0,0.0,0.0,1.0,1.0,0.0
-2017,"Afghanistan, Islamic Rep. of",0.0,0.0,1.0,2.0,2.0,5.0,0.0
+2017,"Afghanistan",0.0,0.0,1.0,2.0,2.0,5.0,0.0
 2017,Albania,0.0,1.0,1.0,0.0,0.0,2.0,0.0
 2017,Algeria,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2017,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8043,7 +8086,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2017,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,India,0.0,1.0,9.0,3.0,5.0,18.0,0.0
 2017,Indonesia,0.0,0.0,7.0,2.0,1.0,10.0,0.0
-2017,"Iran, Islamic Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
+2017,"Iran",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2017,Iraq,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,Ireland,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2017,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8056,7 +8099,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2017,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2017,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,"Korea, Dem. People's Rep. of",1.0,0.0,0.0,0.0,0.0,1.0,0.0
-2017,"Korea, Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,"Korea",0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,Kyrgyz Rep.,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2017,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -8169,7 +8212,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2017,"Yemen, Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2017,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2017,Zimbabwe,1.0,0.0,0.0,0.0,1.0,2.0,0.0
-2018,"Afghanistan, Islamic Rep. of",1.0,0.0,3.0,1.0,0.0,5.0,0.0
+2018,"Afghanistan",1.0,0.0,3.0,1.0,0.0,5.0,0.0
 2018,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2018,Algeria,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2018,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8258,7 +8301,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2018,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2018,India,1.0,1.0,9.0,0.0,11.0,23.0,1.0
 2018,Indonesia,0.0,0.0,6.0,2.0,0.0,8.0,0.0
-2018,"Iran, Islamic Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2018,"Iran",0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2018,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2018,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2018,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8271,7 +8314,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2018,Kenya,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2018,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2018,"Korea, Dem. People's Rep. of",0.0,1.0,1.0,0.0,1.0,3.0,0.0
-2018,"Korea, Rep. of",0.0,1.0,0.0,0.0,0.0,1.0,0.0
+2018,"Korea",0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2018,Kuwait,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2018,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2018,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,2.0,3.0,0.0
@@ -8384,7 +8427,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2018,"Yemen, Rep. of",0.0,0.0,0.0,0.0,2.0,2.0,0.0
 2018,Zambia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2018,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2019,"Afghanistan, Islamic Rep. of",0.0,0.0,6.0,1.0,0.0,7.0,0.0
+2019,"Afghanistan",0.0,0.0,6.0,1.0,0.0,7.0,0.0
 2019,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,Algeria,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2019,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8473,7 +8516,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2019,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,India,0.0,2.0,5.0,0.0,5.0,12.0,0.0
 2019,Indonesia,0.0,0.0,11.0,2.0,0.0,14.0,1.0
-2019,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
+2019,"Iran",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2019,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2019,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8486,7 +8529,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2019,Kenya,1.0,0.0,1.0,1.0,0.0,3.0,0.0
 2019,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,"Korea, Dem. People's Rep. of",1.0,0.0,0.0,0.0,1.0,2.0,0.0
-2019,"Korea, Rep. of",0.0,0.0,0.0,0.0,3.0,4.0,1.0
+2019,"Korea",0.0,0.0,0.0,0.0,3.0,4.0,1.0
 2019,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2019,Lao People's Dem. Rep.,1.0,0.0,1.0,0.0,0.0,2.0,0.0
@@ -8599,7 +8642,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2019,"Yemen, Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2019,Zambia,1.0,0.0,1.0,0.0,0.0,2.0,0.0
 2019,Zimbabwe,0.0,0.0,1.0,0.0,1.0,2.0,0.0
-2020,"Afghanistan, Islamic Rep. of",0.0,0.0,5.0,1.0,1.0,7.0,0.0
+2020,"Afghanistan",0.0,0.0,5.0,1.0,1.0,7.0,0.0
 2020,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,Algeria,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8688,7 +8731,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2020,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,India,0.0,0.0,5.0,2.0,4.0,11.0,0.0
 2020,Indonesia,0.0,0.0,25.0,1.0,0.0,26.0,0.0
-2020,"Iran, Islamic Rep. of",0.0,0.0,6.0,1.0,0.0,7.0,0.0
+2020,"Iran",0.0,0.0,6.0,1.0,0.0,7.0,0.0
 2020,Iraq,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2020,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2020,Isle of Man,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -8701,7 +8744,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2020,Kenya,1.0,0.0,1.0,0.0,0.0,2.0,0.0
 2020,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2020,"Korea, Rep. of",0.0,0.0,2.0,0.0,3.0,5.0,0.0
+2020,"Korea",0.0,0.0,2.0,0.0,3.0,5.0,0.0
 2020,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,Kyrgyz Rep.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2020,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,2.0,2.0,0.0
@@ -8814,7 +8857,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2020,"Yemen, Rep. of",0.0,0.0,5.0,0.0,0.0,5.0,0.0
 2020,Zambia,0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2020,Zimbabwe,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2021,"Afghanistan, Islamic Rep. of",1.0,0.0,2.0,1.0,0.0,4.0,0.0
+2021,"Afghanistan",1.0,0.0,2.0,1.0,0.0,4.0,0.0
 2021,Albania,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2021,Algeria,0.0,0.0,2.0,0.0,0.0,3.0,1.0
 2021,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8903,7 +8946,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2021,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2021,India,0.0,0.0,9.0,2.0,5.0,16.0,0.0
 2021,Indonesia,0.0,0.0,18.0,2.0,1.0,21.0,0.0
-2021,"Iran, Islamic Rep. of",1.0,0.0,1.0,0.0,2.0,4.0,0.0
+2021,"Iran",1.0,0.0,1.0,0.0,2.0,4.0,0.0
 2021,Iraq,1.0,0.0,2.0,0.0,0.0,3.0,0.0
 2021,Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2021,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -8916,7 +8959,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2021,Kenya,0.0,0.0,1.0,0.0,0.0,1.0,0.0
 2021,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2021,"Korea, Dem. People's Rep. of",0.0,0.0,1.0,0.0,0.0,1.0,0.0
-2021,"Korea, Rep. of",0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2021,"Korea",0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2021,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2021,Kyrgyz Rep.,0.0,0.0,0.0,1.0,0.0,1.0,0.0
 2021,Lao People's Dem. Rep.,0.0,0.0,0.0,0.0,1.0,1.0,0.0
@@ -9029,7 +9072,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2021,"Yemen, Rep. of",0.0,0.0,2.0,0.0,0.0,2.0,0.0
 2021,Zambia,1.0,0.0,0.0,0.0,0.0,1.0,0.0
 2021,Zimbabwe,1.0,0.0,0.0,0.0,1.0,2.0,0.0
-2022,"Afghanistan, Islamic Rep. of",0.0,0.0,5.0,1.0,0.0,6.0,0.0
+2022,"Afghanistan",0.0,0.0,5.0,1.0,0.0,6.0,0.0
 2022,Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2022,Algeria,0.0,0.0,0.0,0.0,0.0,1.0,1.0
 2022,American Samoa,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -9118,7 +9161,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2022,Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2022,India,0.0,1.0,3.0,1.0,2.0,7.0,0.0
 2022,Indonesia,0.0,0.0,13.0,0.0,0.0,13.0,0.0
-2022,"Iran, Islamic Rep. of",0.0,0.0,3.0,0.0,0.0,3.0,0.0
+2022,"Iran",0.0,0.0,3.0,0.0,0.0,3.0,0.0
 2022,Iraq,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2022,Ireland,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 2022,Isle of Man,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -9131,7 +9174,7 @@ Year,Country,Drought,Extreme temperature,Flood,Landslide,Storm,TOTAL,Wildfire
 2022,Kenya,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2022,Kiribati,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2022,"Korea, Dem. People's Rep. of",0.0,0.0,0.0,0.0,0.0,0.0,0.0
-2022,"Korea, Rep. of",0.0,1.0,1.0,0.0,1.0,4.0,1.0
+2022,"Korea",0.0,1.0,1.0,0.0,1.0,4.0,1.0
 2022,Kuwait,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2022,Kyrgyz Rep.,0.0,1.0,0.0,0.0,0.0,1.0,0.0
 2022,Lao People's Dem. Rep.,0.0,0.0,1.0,0.0,0.0,1.0,0.0
