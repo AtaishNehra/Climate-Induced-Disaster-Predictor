@@ -45,7 +45,11 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 
 # History
 
+* 01_DataClean.ipynb (By: Kevin Russell)
+	* This notebook loads the surface temperature dataset and climate disasters datasets to tidy the datasets into csv files. This file also evaluates what are the top 30 countries.
 
+* 03_DataLoad.ipynb (By: Kevin Russell)
+	* This notebook combines all datasets together, pre-process the datasets, sort the dataset by country and year, shift the dataset by 4 years, and replace na's with mean. This notebook also showcases the eda and cda performed on the datasets. Along with a simple fit of ridge regression.
 
 # Contact
 
