@@ -7,7 +7,17 @@ All architectures were able to estimate the number of natural disasters, 4 years
 # Getting Started
 
 ## Prerequisites
-
+Install the below libraries for python files:
+1. Pandas - For data manipulation and analysis.
+Install with: pip install pandas
+2. NumPy - For numerical operations on arrays.
+Install with: pip install numpy
+3. Scikit-learn - Provides tools for data preprocessing and splitting the dataset.
+Install with: pip install scikit-learn
+4. Keras - For building and training neural network models. Keras is now included within TensorFlow, so you will install TensorFlow to use Keras.
+Install with: pip install tensorflow
+5. Matplotlib - A comprehensive library for creating static, animated, and interactive visualizations in Python. Install with: pip install matplotlib
+6. TensorFlow - This will enable you to use the Sequential model as well as layers like LSTM, Dense, and Dropout from TensorFlow's Keras API. This single installation will cover all the TensorFlow and Keras functionalities required for your script. Install with: pip install tensorflow
 ## Installation
 
 _Below is a step-by-step guide to install and setup the prediction models._
@@ -52,7 +62,11 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 	* This notebook combines all datasets together, pre-process the datasets, sort the dataset by country and year, shift the dataset by 4 years, and replace na's with mean. This notebook also showcases the eda and cda performed on the datasets. Along with a simple fit of ridge regression.
 
 # Folder Description:
-1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model. Shows the worst model and the best performing model. 
+1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model along with a csv file i.e. the merged dataset used in all the 3 python files for building the ML model. Shows the worst model and the best performing model.
+2. Clean Datasets: Consits of 2 subfolders- "other" that has cleaned files from the year 1992 to 2000 for various climate change measures and disaster data. The seconf subfolder- "top_30" has filtered data of only the top 30 countries according to the number of natural disasters occured(we have used this data for all our models).
+3. Documentation- It has all the PDFs made on Overleaf, for our project and research work.
+4. Raw Datasets: It consists raw data files which were downloaded from International Monetary Fund's website. All of these are open source data and the link is entered in the "Acknowledgment" part.
+5. Images: It contains png files for all the EDA graphs.
 # Contact
 
 # Acknowledgments
