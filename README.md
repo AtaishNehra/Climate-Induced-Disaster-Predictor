@@ -49,6 +49,30 @@ _To use the repository's notebooks, you can launch the notebooks through Jupyter
    python -m jupyterlab
    ```
 
+# Work distribution: 
+1. Kevin Russell:
+- Forward-Forward Continuous Model.
+- Report Writer.
+- Pre-processing of Data.
+- Torch Batch DataLoader.
+- Handling of Total Disasters and Surface Temperature.
+- Project Management in Jira.
+2. Sean Klein:
+- Attention Neural Network.
+- Simple RNN model.
+- Pre-processing of Data.
+- Report Writer.
+- Initial Handling of Sea Levels and Co Concentration datasets.
+- Project Leader.
+3. Ataish Nehra:
+- LSTM model.
+- Report Writer.
+- Pre-processing of Data.
+- Initial Handling of Forest & Carbon  and Land Cover Accounts datasets.
+- Sequencing the data set.
+- Lead Programmer.
+
+
 # Contributing
 
 Please see the [contributing.md](CONTRIBUTING.md) file for more details about how to contribute to the project.
@@ -62,14 +86,15 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 	* This notebook combines all datasets together, pre-process the datasets, sort the dataset by country and year, shift the dataset by 4 years, and replace na's with mean. This notebook also showcases the eda and cda performed on the datasets. Along with a simple fit of ridge regression.
 
 # Folder Description:
-1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model along with a csv file i.e. the merged dataset used in all the 3 python files for building the ML model. Shows the worst model and the best performing model.
-2. Clean Datasets: Consits of 2 subfolders- "other" that has cleaned files from the year 1992 to 2000 for various climate change measures and disaster data. The seconf subfolder- "top_30" has filtered data of only the top 30 countries according to the number of natural disasters occured(we have used this data for all our models).
-3. Data Cleaning & Manipulation Scripts: This folder contails files for all the data scleaning done on independent data files of all the climate data as well as the natural disasters data.
+1. Ataish LSTM model- Contains 3 python files, each file represents a different LSTM model along with a csv file i.e. the merged dataset used in all the 3 python files for building the ML model. Shows the worst model and the best performing model.
+2. Clean Datasets- Consits of 2 subfolders- "other" that has cleaned files from the year 1992 to 2000 for various climate change measures and disaster data. The seconf subfolder- "top_30" has filtered data of only the top 30 countries according to the number of natural disasters occured(we have used this data for all our models).
+3. Data Cleaning & Manipulation Scripts- This folder contails files for all the data scleaning done on independent data files of all the climate data as well as the natural disasters data.
 4. Documentation- It has all the PDFs made on Overleaf, for our project and research work.
-5. EDA & outlier detection: This folder contains python scripts for pre-machine learning EDA on the datasets along with outlier detection on the dataset, all done on jupyter python. 
-6. Raw Datasets: It consists raw data files which were downloaded from International Monetary Fund's website. All of these are open source data and the link is entered in the "Acknowledgment" part.
-7. Sean's Attention model - This folder has python scripts for attention neural network model, it has numerous files showing the progress of building different attention model and the final best performing model.
-8. Images: It contains png files for all the EDA graphs.
+5. EDA & outlier detection- This folder contains python scripts for pre-machine learning EDA on the datasets along with outlier detection on the dataset, all done on jupyter python.
+6. Presentation Slides- Consists of all the presentation files for our project.
+7. Raw Datasets- It consists raw data files which were downloaded from International Monetary Fund's website. All of these are open source data and the link is entered in the "Acknowledgment" part.
+8. Sean's Attention model - This folder has python scripts for attention neural network model, it has numerous files showing the progress of building different attention model and the final best performing model.
+9. Images: It contains png files for all the EDA graphs.
 # Contact
 1. Ataish Nehra
    LinkedIn - http://www.linkedin.com/in/ataish-nehra
