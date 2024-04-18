@@ -71,7 +71,15 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 7. Sean's Attention model - This folder has python scripts for attention neural network model, it has numerous files showing the progress of building different attention model and the final best performing model.
 8. Images: It contains png files for all the EDA graphs.
 # Contact
-
+1. Ataish Nehra
+   LinkedIn - http://www.linkedin.com/in/ataish-nehra
+   GitHub - https://github.com/AtaishNehra
+2. Sean Klein
+   LinkedIn - 
+   GitHub - 
+3. Kevin Russell
+   LinkedIn - 
+   GitHub - 
 # Acknowledgments
 
 1. [I. M. Fund. “Climate change data.” (), \[Online\]. Available: https://climatedata.imf.org/pages/climatechange-data. accessed: 03.07.2024.](https://climatedata.imf.org/pages/climatechange-data)
