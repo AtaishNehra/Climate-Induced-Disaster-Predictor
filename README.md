@@ -52,7 +52,12 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 	* This notebook combines all datasets together, pre-process the datasets, sort the dataset by country and year, shift the dataset by 4 years, and replace na's with mean. This notebook also showcases the eda and cda performed on the datasets. Along with a simple fit of ridge regression.
 
 # Folder Description:
-1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model. Shows the worst model and the best performing model. 
+1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model along with a csv file i.e. the merged dataset used in all the 3 python files for building the ML model. Shows the worst model and the best performing model.
+2. Clean Datasets: Consits of 2 subfolders- "other" that has cleaned files from the year 1992 to 2000 for various climate change measures and disaster data. The seconf subfolder- "top_30" has filtered data of only the top 30 countries according to the number of natural disasters occured(we have used this data for all our models).
+3. Documentation- It has all the PDFs made on Overleaf, for our project and research work.
+4. Raw Datasets: It consists raw data files which were downloaded from International Monetary Fund's website. All of these are open source data and the link is entered in the "Acknowledgment" part.
+5. Images: It contains png files for all the EDA graphs.
+6. 
 # Contact
 
 # Acknowledgments
