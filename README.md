@@ -57,7 +57,6 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 3. Documentation- It has all the PDFs made on Overleaf, for our project and research work.
 4. Raw Datasets: It consists raw data files which were downloaded from International Monetary Fund's website. All of these are open source data and the link is entered in the "Acknowledgment" part.
 5. Images: It contains png files for all the EDA graphs.
-6. 
 # Contact
 
 # Acknowledgments
