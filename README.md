@@ -100,8 +100,8 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
    LinkedIn - http://www.linkedin.com/in/ataish-nehra
    GitHub - https://github.com/AtaishNehra
 2. Sean Klein
-   LinkedIn - 
-   GitHub - 
+   LinkedIn - https://www.linkedin.com/in/sean-klein-53b416264/
+   GitHub - https://github.com/kleinse24
 3. Kevin Russell
    LinkedIn - 
    GitHub - 
