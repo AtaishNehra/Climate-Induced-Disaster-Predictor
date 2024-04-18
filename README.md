@@ -51,6 +51,8 @@ Please see the [contributing.md](CONTRIBUTING.md) file for more details about ho
 * 03_DataLoad.ipynb (By: Kevin Russell)
 	* This notebook combines all datasets together, pre-process the datasets, sort the dataset by country and year, shift the dataset by 4 years, and replace na's with mean. This notebook also showcases the eda and cda performed on the datasets. Along with a simple fit of ridge regression.
 
+# Folder Description:
+1. Ataish LSTM model: Contains 3 python files, each file represents a different LSTM model. Shows the worst model and the best performing model. 
 # Contact
 
 # Acknowledgments
