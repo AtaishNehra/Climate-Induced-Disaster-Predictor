@@ -7,7 +7,15 @@ All architectures were able to estimate the number of natural disasters, 4 years
 # Getting Started
 
 ## Prerequisites
-
+Install the below libraries for python files:
+1. Pandas - For data manipulation and analysis.
+Install with: pip install pandas
+2. NumPy - For numerical operations on arrays.
+Install with: pip install numpy
+3. Scikit-learn - Provides tools for data preprocessing and splitting the dataset.
+Install with: pip install scikit-learn
+4. Keras - For building and training neural network models. Keras is now included within TensorFlow, so you will install TensorFlow to use Keras.
+Install with: pip install tensorflow
 ## Installation
 
 _Below is a step-by-step guide to install and setup the prediction models._
