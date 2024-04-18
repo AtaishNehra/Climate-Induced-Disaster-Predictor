@@ -17,6 +17,7 @@ Install with: pip install scikit-learn
 4. Keras - For building and training neural network models. Keras is now included within TensorFlow, so you will install TensorFlow to use Keras.
 Install with: pip install tensorflow
 5. Matplotlib - A comprehensive library for creating static, animated, and interactive visualizations in Python. Install with: pip install matplotlib
+6. TensorFlow - This will enable you to use the Sequential model as well as layers like LSTM, Dense, and Dropout from TensorFlow's Keras API. This single installation will cover all the TensorFlow and Keras functionalities required for your script. Install with: pip install tensorflow
 ## Installation
 
 _Below is a step-by-step guide to install and setup the prediction models._
