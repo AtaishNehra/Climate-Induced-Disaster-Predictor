@@ -103,8 +103,8 @@ Please see the [contributing.md](Contributing.md) file for more details about ho
    LinkedIn - https://www.linkedin.com/in/sean-klein-53b416264/
    GitHub - https://github.com/kleinse24
 3. Kevin Russell
-   LinkedIn - 
-   GitHub - 
+   LinkedIn - https://www.linkedin.com/in/kevin-russell-3b849087/
+   GitHub - https://github.com/KLRussell
 # Acknowledgments
 
 1. [I. M. Fund. “Climate change data.” (), \[Online\]. Available: https://climatedata.imf.org/pages/climatechange-data. accessed: 03.07.2024.](https://climatedata.imf.org/pages/climatechange-data)
