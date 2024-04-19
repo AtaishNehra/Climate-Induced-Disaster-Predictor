@@ -7,6 +7,8 @@ All architectures were able to estimate the number of natural disasters, 4 years
 # Getting Started
 
 ## Prerequisites
+- Python 3.8 or above
+- pip (Python package installer)
 Install the below libraries for python files:
 1. Pandas - For data manipulation and analysis.
 Install with: pip install pandas
