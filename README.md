@@ -75,7 +75,7 @@ _To use the repository's notebooks, you can launch the notebooks through Jupyter
 
 # Contributing
 
-Please see the [contributing.md](CONTRIBUTING.md) file for more details about how to contribute to the project.
+Please see the [contributing.md](Contributing.md) file for more details about how to contribute to the project.
 
 # History
 
